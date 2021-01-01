@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+    <element id="1">
+            <question>Combien d’octets sont utilisés pour représenter le type int en Java </question>
+            <reponse> 2</reponse>
+            <reponse>4</reponse>
+            <reponse>8</reponse>
+            <reponse>1</reponse>
+            <reponseCorrect>4</reponseCorrect>
+    </element>
+    <element id="2">
+            <question>A quoi sert ‘return void’? </question>
+            <reponse> Un espace mémoire vide est retourné afin que les développeurs puissent l’utiliser.</reponse>
+            <reponse>void n’est pas supporté en Java</reponse>
+            <reponse> void ne renvoie aucun type de données</reponse>
+            <reponse>null</reponse>
+            <reponseCorrect>void ne renvoie aucun type de données</reponseCorrect>
+    </element>
+    <element id="3">
+            <question>Lesquels sont des identifiants autorisés? </question>
+            <reponse> number_5</reponse>
+            <reponse>number_x</reponse>
+            <reponse> $9876</reponse>
+            <reponse> Tout les réponses sont vrais</reponse>
+            <reponseCorrect> Tout les réponses sont vrais</reponseCorrect>
+    </element>
+    <element id="4">
+            <question>Lesquels des éléments suivants sont des mots-clés Java? </question>
+            <reponse> throw</reponse>
+            <reponse> void</reponse>
+            <reponse> private</reponse>
+            <reponse>Tout les réponses sont vrais</reponse>
+            <reponseCorrect>Tout les réponses sont vrais</reponseCorrect>
+    </element>
+    <element id="5">
+            <question>Lesquels sont des identifiants autorisés? </question>
+            <reponse> 3alpha</reponse>
+            <reponse>$xyzab</reponse>
+            <reponse>Les deux 3alpha et $xyzab</reponse>
+            <reponse>Tout les réponses sont vrais</reponse>
+            <reponseCorrect>Les deux 3alpha et $xyzab</reponseCorrect>
+    </element>
+    <element id="6">
+            <question>Lequel des énoncés suivants à propos du Java est vrai? </question>
+            <reponse> L’approche procédurale et la POO sont prises en charge dans Java.</reponse>
+            <reponse>Java ne supporte qu’une approche procédurale de la programmation.</reponse>
+            <reponse>Java prend en charge uniquement l’approche OOP.</reponse>
+            <reponse>Aucun de ces réponses</reponse>
+            <reponseCorrect>L’approche procédurale et la POO sont prises en charge dans Java.</reponseCorrect>
+    </element>
+    <element id="7">
+            <question>Lesquels des éléments suivants sont des mots-clés Java? </question>
+            <reponse> implement</reponse>
+            <reponse>friend</reponse>
+            <reponse>NUL</reponse>
+            <reponse>synchronized</reponse>
+            <reponseCorrect>synchronized</reponseCorrect>
+    </element>
+    <element id="8">
+            <question>Parmi ces propositions, lesquelles sont des déclarations ou des définitions autorisés? </question>
+            <reponse> int[ ] [ ] y[ ];</reponse>
+            <reponse>int y[5];</reponse>
+            <reponse>int *y;</reponse>
+            <reponse>Aucun de ces réponses</reponse>
+            <reponseCorrect>int[ ] [ ] y[ ];</reponseCorrect>
+    </element>
+    <element id="9">
+            <question>La classe « Hashtable » est utilisée pour implémenter quelle interface de collection. </question>
+            <reponse> List</reponse>
+            <reponse>Set</reponse>
+            <reponse>Map</reponse>
+            <reponse>SortedSet</reponse>
+            <reponseCorrect>Map</reponseCorrect>
+    </element>
+    <element id="10">
+            <question>La classe TreeMap est utilisée pour implémenter quelle interface de collection. </question>
+            <reponse> Set</reponse>
+            <reponse>SortedSet</reponse>
+            <reponse>Tree</reponse>
+            <reponse>SortedMap</reponse>
+            <reponseCorrect>SortedMap</reponseCorrect>
+    </element>
+    <element id="11">
+            <question>Quelle est la meilleur façon pour obtenir le nombre d’éléments qui se trouve dans le tableau arr.</question>
+            <reponse> arr.length</reponse>
+            <reponse>arr.length – 1</reponse>
+            <reponse>arr.size</reponse>
+            <reponse>arr.length()</reponse>
+            <reponseCorrect>arr.length</reponseCorrect>
+    </element>
+    <element id="12">
+            <question>Lesquels sont des mot-clés en Java? </question>
+            <reponse> volatile</reponse>
+            <reponse>extern</reponse>
+            <reponse>friend</reponse>
+            <reponse>then</reponse>
+            <reponseCorrect>volatile</reponseCorrect>
+    </element>
+    <element id="13">
+            <question>Qu’est-ce qu’un objet agrégé? </question>
+            <reponse> Un objet avec seulement des attributs primitifs</reponse>
+            <reponse>Une instance d’une classe qui n’a que des méthodes statiques</reponse>
+            <reponse>Un objet qui contient d’autres objets</reponse>
+            <reponse>Aucune de ces réponses</reponse>
+            <reponseCorrect>Un objet qui contient d’autres objets</reponseCorrect>
+    </element>
+    <element id="14">
+            <question>Lesquels des mots clés suivants sont autorisés en Java? </question>
+            <reponse> friend</reponse>
+            <reponse> throws</reponse>
+            <reponse> implement</reponse>
+            <reponse>NULL</reponse>
+            <reponseCorrect> throws</reponseCorrect>
+    </element>
+    <element id="15">
+            <question>Parmi les propositions suivantes, quelles sont les déclarations autorisé pour une méthode? </question>
+            <reponse>void method(void) { };</reponse>
+            <reponse>method() { };</reponse>
+            <reponse>method(void) { };</reponse>
+            <reponse>void method() { };</reponse>
+            <reponseCorrect>void method() { };</reponseCorrect>
+    </element>
+    <element id="16">
+            <question>Lesquels de ces instructions ne sont pas valides? </question>
+            <reponse>short s = 15;</reponse>
+            <reponse>float f = 9.8;</reponse>
+            <reponse>double d = 4.2;</reponse>
+            <reponse>int I = ‘0’;</reponse>
+            <reponseCorrect>int I = ‘0’;</reponseCorrect>
+    </element>
+    <element id="17">
+            <question>Une classe de premier niveau peut avoir seulement le modificateur d’accès suivant? </question>
+            <reponse> package</reponse>
+            <reponse>public</reponse>
+            <reponse>private</reponse>
+            <reponse>protected</reponse>
+            <reponseCorrect>public</reponseCorrect>
+    </element>
+    <element id="18">
+            <question>Quel est le nombre d’octets occupé par une variable de type long ? </question>
+            <reponse>Dépend du compilateur</reponse>
+            <reponse>2</reponse>
+            <reponse>4</reponse>
+            <reponse>8</reponse>
+            <reponseCorrect>8</reponseCorrect>
+    </element>
+    <element id="19">
+            <question>Lequel de ces éléments est une interfaces dans Collection? </question>
+            <reponse> HashMap</reponse>
+            <reponse>ArrayList</reponse>
+            <reponse>SortedMap</reponse>
+            <reponse>TreeMap</reponse>
+            <reponseCorrect>SortedMap</reponseCorrect>
+    </element>
+    <element id="20">
+            <question>Que retourne-t-il lorsque la méthode substring (2, 4) est invoquée sur la chaîne « example »? </question>
+            <reponse>« xa »</reponse>
+            <reponse>« am »</reponse>
+            <reponse>« xm »</reponse>
+            <reponse>« xamp »</reponse>
+            <reponseCorrect>« am »</reponseCorrect>
+    </element>
+    <element id="21">
+            <question>Quel collection est utilisée pour maintenir les éléments non uniques dans l’ordre?</question>
+            <reponse> Set</reponse>
+            <reponse>List</reponse>
+            <reponse> Map</reponse>
+            <reponse>SortedSet</reponse>
+            <reponseCorrect>List</reponseCorrect>
+    </element>
+    <element id="22">
+            <question>En utilisant jusqu’à quatre caractères, écrivez la représentation octal de 6 en Java. </question>
+            <reponse> 06</reponse>
+            <reponse>006</reponse>
+            <reponse>0006</reponse>
+            <reponse> Tout ce qui précède</reponse>
+            <reponseCorrect> Tout ce qui précède</reponseCorrect>
+    </element>
+    <element id="23">
+            <question>Quelle est la représentation Java du nombre 23 en hexadécimal?</question>
+            <reponse>0x17</reponse>
+            <reponse>0x18</reponse>
+            <reponse>0x19</reponse>
+            <reponse>0x20</reponse>
+            <reponseCorrect>0x17</reponseCorrect>
+    </element>
+    <element id="24">
+            <question>Quel est Interface de Collections utilisée pour gérer les éléments uniques? </question>
+            <reponse>List</reponse>
+            <reponse>Set</reponse>
+            <reponse>Map</reponse>
+            <reponse>Tout ce qui précède</reponse>
+            <reponseCorrect>Set</reponseCorrect>
+    </element>
+    <element id="25">
+            <question>Quel est le résultat de l’évaluation de l’expression 14 ^ 23 ? </question>
+            <reponse> 23</reponse>
+            <reponse>24</reponse>
+            <reponse>25</reponse>
+            <reponse>26</reponse>
+            <reponseCorrect>25</reponseCorrect>
+    </element>
+    
+    </elements>
