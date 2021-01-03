@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+    <element id="1">
+            <question>Python est un langage _______? </question>
+            <reponse>interprété</reponse>
+            <reponse>machine</reponse>
+            <reponse>compilé</reponse>
+            <reponse>binaire</reponse>
+            <reponseCorrect>interprété</reponseCorrect>
+    </element>
+    <element id="2">
+            <question>Laquelle des fonctions suivantes convertit un « string » en « float » en python? </question>
+            <reponse> str(x) </reponse>
+            <reponse>float(x)</reponse>
+            <reponse>long(x [,base] )</reponse>
+            <reponse>int(x [,base])</reponse>
+            <reponseCorrect>float(x)</reponseCorrect>
+    </element>
+    <element id="3">
+            <question>En python 3, que fait l’opérateur // ?</question>
+            <reponse>Division entière</reponse>
+            <reponse>Retourne le reste</reponse>
+            <reponse>Division du float par zéro</reponse>
+            <reponse>idem a ** b</reponse>
+            <reponseCorrect>Division entière</reponseCorrect>
+    </element>
+    <element id="4">
+            <question>En Python, laquelle des fonctions suivantes vérifie dans une chaîne de caractères que tous les caractères sont des chiffres?</question>
+            <reponse>isdigit()</reponse>
+            <reponse>isalnum()</reponse>
+            <reponse>capitalize()</reponse>
+            <reponse>shuffle(lst)</reponse>
+            <reponseCorrect>isdigit()</reponseCorrect>
+    </element>
+    <element id="5">
+            <question>Quel est le type de données pour un caractère en python? </question>
+            <reponse>chr </reponse>
+            <reponse>char</reponse>
+            <reponse>character</reponse>
+            <reponse>python ne possède aucun type de données pour les caractères</reponse>
+            <reponseCorrect>python ne possède aucun type de données pour les caractères</reponseCorrect>
+    </element>
+    <element id="6">
+            <question>Quelle est la fonction qui compare les éléments des deux listes?</question>
+            <reponse>cmp(list1, list2)</reponse>
+            <reponse>eq(list1, list2)</reponse>
+            <reponse>len(list1, list2)</reponse>
+            <reponse>max(list1, list2)</reponse>
+            <reponseCorrect>cmp(list1, list2)</reponseCorrect>
+    </element>
+    <element id="7">
+            <question>Laquelle des fonctions suivantes renvoie le plus petit caractère de la chaîne str?</question>
+            <reponse>lower()</reponse>
+            <reponse>lstrip()</reponse>
+            <reponse>upper(str)</reponse>
+            <reponse>min(str)</reponse>
+            <reponseCorrect>min(str)</reponseCorrect>
+    </element>
+    <element id="8">
+            <question>Quelle fonction est utilisée pour ouvrir le fichier en lecture en Python?</question>
+            <reponse>fopen(file_name, mode)</reponse>
+            <reponse>open(file_name, mode)</reponse>
+            <reponse>openfile(file_name, mode)</reponse>
+            <reponse>open_file(file_name, mode)</reponse>
+            <reponseCorrect>open(file_name, mode)</reponseCorrect>
+    </element>
+    <element id="9">
+            <question>En python, quel mot clé est utilisé pour commencer une fonction?</question>
+            <reponse>function</reponse>
+            <reponse>fun</reponse>
+            <reponse>def</reponse>
+            <reponse>import</reponse>
+            <reponseCorrect>def</reponseCorrect>
+    </element>
+    <element id="10">
+            <question>Lequel des opérateurs suivants en python est évalué à « true » s’il ne trouve pas de variable dans la séquence spécifiée sinon « false »?</question>
+            <reponse>**</reponse>
+            <reponse> is</reponse>
+            <reponse>not in</reponse>
+            <reponse>//</reponse>
+            <reponseCorrect>not in</reponseCorrect>
+    </element>
+    <element id="11">
+            <question>En python, quelle est la bonne méthode pour charger un module?</question>
+            <reponse>include math</reponse>
+            <reponse>import math</reponse>
+            <reponse>#include math.h</reponse>
+            <reponse>using math</reponse>
+            <reponseCorrect>import math</reponseCorrect>
+    </element>
+    <element id="12">
+            <question>Quelle est la sortie pour 'python' [-3]?</question>
+            <reponse>‘h’</reponse>
+            <reponse>‘t’</reponse>
+            <reponse>‘o’</reponse>
+            <reponse>Erreur : index négatif.</reponse>
+            <reponseCorrect>‘h’</reponseCorrect>
+    </element>
+    <element id="13">
+            <question> Quelle sera la sortie du code suivant: print type(type(int))?</question>
+            <reponse>type ‘int’</reponse>
+            <reponse>type ‘type’</reponse>
+            <reponse>Error</reponse>
+            <reponse>0</reponse>
+            <reponseCorrect>type ‘type’</reponseCorrect>
+    </element>
+    <element id="14">
+            <question>Lorsqu’une fonction est définie dans une classe, on l’appelle ______?</question>
+            <reponse>Module</reponse>
+            <reponse>Classe</reponse>
+            <reponse>Méthode</reponse>
+            <reponse> Une autre fonction</reponse>
+            <reponseCorrect>Méthode</reponseCorrect>
+    </element>
+    <element id="15">
+            <question>Lequel des éléments suivants utilise la fonction id() en python?</question>
+            <reponse>id() renvoie l’identifiant de l’objet</reponse>
+            <reponse>Un objet n’a pas un identifiant unique</reponse>
+            <reponse>Tout les réponses sont vrais</reponse>
+            <reponse>Aucune de ces réponses n’est vraie.</reponse>
+            <reponseCorrect>id() renvoie l’identifiant de l’objet</reponseCorrect>
+    </element>
+    <element id="16">
+            <question>Lequel des mots-clés suivants est un espace réservé pour le corps d’une fonction?</question>
+            <reponse>break</reponse>
+            <reponse>continue</reponse>
+            <reponse>body</reponse>
+            <reponse>pass</reponse>
+            <reponseCorrect>pass</reponseCorrect>
+    </element>
+    <element id="17">
+            <question>Qui a crée le langage python?</question>
+            <reponse>Denis Ritchie</reponse>
+            <reponse>Guido Van Rossum</reponse>
+            <reponse>James Gosling</reponse>
+            <reponse>Tom Cruise</reponse>
+            <reponseCorrect>Guido Van Rossum</reponseCorrect>
+    </element>
+    <element id="18">
+        <question>Quel module est utilisé en python pour créer des graphiques?</question>
+        <reponse>Graphics</reponse>
+        <reponse>Turtle</reponse>
+        <reponse>Canvas</reponse>
+        <reponse>Tkinter</reponse>
+        <reponseCorrect>Turtle</reponseCorrect>
+    </element>
+    <element id="19">
+        <question>Laquelle des affirmations suivantes est vraie?</question>
+        <reponse>Python est un langage de programmation de haut niveau.e</reponse>
+        <reponse>Python est un langage interprété.</reponse>
+        <reponse>Python est un langage orienté objet.</reponse>
+        <reponse>Tout les réponses sont vrais</reponse>
+        <reponseCorrect>Tout les réponses sont vrais</reponseCorrect>
+    </element>
+    <element id="20">
+        <question>Quelle est la sortie du code suivant: print 9//2</question>
+        <reponse>4</reponse>
+        <reponse>4.5</reponse>
+        <reponse>4.0</reponse>
+        <reponse>Erreur</reponse>
+        <reponseCorrect>4</reponseCorrect>
+    </element>
+    <element id="21">
+        <question>Quelle fonction surcharge l’opérateur >> ?</question>
+        <reponse>move()</reponse>
+        <reponse>gt()</reponse>
+        <reponse>more()</reponse>
+        <reponse>Aucune de ces réponses n’est vraie.</reponse>
+        <reponseCorrect>Aucune de ces réponses n’est vraie.</reponseCorrect>
+    </element>
+    
+    </elements>
