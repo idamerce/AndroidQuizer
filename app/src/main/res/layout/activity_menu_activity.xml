@@ -1,9 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".menu_activity">
+    tools:context=".menu_activity"
+    android:orientation="vertical"
+    android:background="@color/colorBlue">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="176dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="172dp"
+                android:gravity="center"
+                android:text="Veuillez choisir un theme "
+                android:textSize="30dp"
+                android:textColor="@color/colorWhite"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="142dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/html_css"
+                    android:layout_width="133dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="3dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/html_css_logo" />
+
+                <Button
+                    android:id="@+id/git"
+                    android:layout_width="133dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/git" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="128dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/java"
+                    android:layout_width="133dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/java" />
+
+                <Button
+                    android:id="@+id/php"
+                    android:layout_width="133dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/php_logo" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="127dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/python"
+                    android:layout_width="133dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/python" />
+
+                <Button
+                    android:id="@+id/csharp"
+                    android:layout_width="133dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/csharp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.appcompat.widget.LinearLayoutCompat>
