@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+    <element id="1">
+            <question>CLR signifie __________ ? </question>
+            <reponse>Common Local Runtime</reponse>
+            <reponse>Common Language Runtime</reponse>
+            <reponse>Common Language Realtime</reponse>
+            <reponse>Common Local Realtime</reponse>
+            <reponseCorrect>Common Language Runtime</reponseCorrect>
+    </element>
+    <element id="2">
+            <question>CLR est responsable de __________ ?</question>
+            <reponse> Garbage-collector </reponse>
+            <reponse>Sécurité d’accès au code</reponse>
+            <reponse>Vérification du code</reponse>
+            <reponse>Tout les réponses sont vrais</reponse>
+            <reponseCorrect>Tout les réponses sont vrais</reponseCorrect>
+    </element>
+    <element id="3">
+            <question>GAC signifie __________ ?</question>
+            <reponse>Global Assembly Cache</reponse>
+            <reponse>Global Assembly Store</reponse>
+            <reponse>Garbage Assemble Cache</reponse>
+            <reponse>Global Advanced Cache</reponse>
+            <reponseCorrect>Global Assembly Cache</reponseCorrect>
+    </element>
+    <element id="4">
+            <question>GAC __________ ?</question>
+            <reponse>Stocke les « assembly » .net partagés entre plusieurs applications.</reponse>
+            <reponse>Stocke les dll globales.</reponse>
+            <reponse>Mettre en cache les données d’application.</reponse>
+            <reponse>Aucune de ces réponses</reponse>
+            <reponseCorrect>Stocke les « assembly » .net partagés entre plusieurs applications.</reponseCorrect>
+    </element>
+    <element id="5">
+            <question>Quels sont les types de JIT?</question>
+            <reponse>Pre-JIT</reponse>
+            <reponse>Econo-JT</reponse>
+            <reponse>Normal-JIT</reponse>
+            <reponse>Tout les réponses sont vrais</reponse>
+            <reponseCorrect>Tout les réponses sont vrais</reponseCorrect>
+    </element>
+    <element id="6">
+            <question>Garbage collector (GC) comprend _______ générations.</question>
+            <reponse>Un</reponse>
+            <reponse>Deux</reponse>
+            <reponse>Trois</reponse>
+            <reponse>Cinq</reponse>
+            <reponseCorrect>Trois</reponseCorrect>
+    </element>
+    <element id="7">
+            <question>Comment forcer le garbage-collector à s’exécuter? </question>
+            <reponse>Utilisation de la méthode GC.Run()</reponse>
+            <reponse>Utilisation de la méthode GC.Collect()</reponse>
+            <reponse>Utilisation de la méthode GC.Collection()</reponse>
+            <reponse>Utilisation de la méthode GC.Finalize()</reponse>
+            <reponseCorrect>Utilisation de la méthode GC.Collect()</reponseCorrect>
+    </element>
+    <element id="8">
+            <question>IL en .Net signifie ________?</question>
+            <reponse>Intermediate Language</reponse>
+            <reponse>International Language</reponse>
+            <reponse>Interoperate Language</reponse>
+            <reponse>Intermediate Local</reponse>
+            <reponseCorrect>Intermediate Language</reponseCorrect>
+    </element>
+    <element id="9">
+            <question>Quel outil est utilisé pour voir le code IL? </question>
+            <reponse>Util.exe</reponse>
+            <reponse>IL.exe</reponse>
+            <reponse>GACUtil.exe</reponse>
+            <reponse>IDASM.EXE</reponse>
+            <reponseCorrect>IDASM.EXE</reponseCorrect>
+    </element>
+    <element id="10">
+            <question>Que signifie le terme « boxing » en .net?</question>
+            <reponse>Convertit le type de valeur en objet</reponse>
+            <reponse>Convertit le type de référence en type de valeur</reponse>
+            <reponse>Convertit le type primitif en type valeur</reponse>
+            <reponse>Aucune de ces réponses n’est vraie.</reponse>
+            <reponseCorrect>Convertit le type de valeur en objet</reponseCorrect>
+    </element>
+    <element id="11">
+            <question>Les métadonnées de l’ « assembly » .Net sont stockées dans quel fichier?</question>
+            <reponse>.dll</reponse>
+            <reponse>.exe</reponse>
+            <reponse>manifest</reponse>
+            <reponse>core</reponse>
+            <reponseCorrect>manifest</reponseCorrect>
+    </element>
+    <element id="12">
+            <question>CTS (Common Type System) gère _________?</question>
+            <reponse>Communication entre plusieurs langues</reponse>
+            <reponse>Types de valeur</reponse>
+            <reponse>Types de référence</reponse>
+            <reponse>Tous les types de données en .net</reponse>
+            <reponseCorrect>Communication entre plusieurs langues</reponseCorrect>
+    </element>
+    <element id="13">
+            <question>Lequel des types suivants peut contenir une valeur de n’importe quelle taille?</question>
+            <reponse>Int32</reponse>
+            <reponse>Double</reponse>
+            <reponse>Long</reponse>
+            <reponse>BigInteger</reponse>
+            <reponseCorrect>BigInteger</reponseCorrect>
+    </element>
+    <element id="14">
+            <question>Quel est l’espace de noms qui le père pour tous les types dans le framework .Net ?</question>
+            <reponse>System.Object</reponse>
+            <reponse>System.Web</reponse>
+            <reponse>System.IO</reponse>
+            <reponse>System.File</reponse>
+            <reponseCorrect>System.Object</reponseCorrect>
+    </element>
+    <element id="15">
+            <question>Quelles sont les fonctionnalités suivantes introduites dans .Net 3.5?</question>
+            <reponse>WCF</reponse>
+            <reponse>WWF</reponse>
+            <reponse>WPF</reponse>
+            <reponse>Tout les réponses sont vrais</reponse>
+            <reponseCorrect>WCF</reponseCorrect>
+    </element>
+    <element id="16">
+            <question>Quelles sont les caractéristiques de .Net 4.5?</question>
+            <reponse>Bibliothèque de classe portable</reponse>
+            <reponse>Traitement en parallèle</reponse>
+            <reponse>.Net pour les applications du Windows Store</reponse>
+            <reponse>Tout les réponses sont vrais</reponse>
+            <reponseCorrect>Tout les réponses sont vrais</reponseCorrect>
+    </element>
+    <element id="17">
+            <question> Le code qui s’exécute sous CLR s’appelle _______?</question>
+            <reponse>Code managé</reponse>
+            <reponse>Code non managé</reponse>
+            <reponse>Code COM</reponse>
+            <reponse>Code PIN</reponse>
+            <reponseCorrect>Code managé</reponseCorrect>
+    </element>
+    <element id="18">
+        <question>Lequel des éléments suivants n’est pas un type de données valide dans .Net?</question>
+        <reponse> Double</reponse>
+        <reponse>Int32</reponse>
+        <reponse>Int16</reponse>
+        <reponse>MIME</reponse>
+        <reponseCorrect>MIME</reponseCorrect>
+    </element>
+    <element id="19">
+        <question>Lequel des assembly suivants peut être stocké dans Global Assembly Cache?</question>
+        <reponse>Private Assemblies</reponse>
+        <reponse>Friend Assemblies</reponse>
+        <reponse>Shared Assemblies</reponse>
+        <reponse>Public Assemblies</reponse>
+        <reponseCorrect>Shared Assemblies</reponseCorrect>
+    </element>
+    <element id="20">
+        <question>Le code qui cible le Common Language Runtime(CLR) est appelé _____?</question>
+        <reponse>Non managé</reponse>
+        <reponse>Distribué</reponse>
+        <reponse>Héritage</reponse>
+        <reponse>Code managé</reponse>
+        <reponseCorrect>Code managé</reponseCorrect>
+    </element>
+    
+    </elements>
