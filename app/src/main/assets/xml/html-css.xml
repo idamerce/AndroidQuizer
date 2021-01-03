@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+    <element id="1">
+            <question>Quelle organisation définit les standards Web?</question>
+            <reponse>Apple Inc.</reponse>
+            <reponse>IBM Corporation</reponse>
+            <reponse>World Wide Web Consortium</reponse>
+            <reponse>Microsoft Corporation</reponse>
+            <reponseCorrect>World Wide Web Consortium</reponseCorrect>
+    </element>
+    <element id="2">
+            <question>HTML est considéré comme ______ ?</question>
+            <reponse>Langage de programmation </reponse>
+            <reponse>Langage POO</reponse>
+            <reponse>Langage POO</reponse>
+            <reponse>Langage de balisage</reponse>
+            <reponseCorrect>Langage de balisage</reponseCorrect>
+    </element>
+    <element id="3">
+            <question>HTML utilise des ______?</question>
+            <reponse>Balises définis par l’utilisateur</reponse>
+            <reponse>Balises prédéfinis</reponse>
+            <reponse> Balises fixes définis par le langage</reponse>
+            <reponse>Balises uniquement pour les liens</reponse>
+            <reponseCorrect> Balises fixes définis par le langage</reponseCorrect>
+    </element>
+    <element id="4">
+            <question>HTML a été proposé pour la première fois l’année ___.</question>
+            <reponse>1980</reponse>
+            <reponse>1990</reponse>
+            <reponse>1995</reponse>
+            <reponse>2000</reponse>
+            <reponseCorrect>1990</reponseCorrect>
+    </element>
+    <element id="5">
+            <question>Lequel des éléments suivants n’est pas un exemple de navigateur? </question>
+            <reponse>Mozilla Firefox</reponse>
+            <reponse>Netscape</reponse>
+            <reponse>Microsoft Bing</reponse>
+            <reponse>Opéra</reponse>
+            <reponseCorrect>Microsoft Bing</reponseCorrect>
+    </element>
+    <element id="6">
+            <question>Qui est l’auteur principal du HTML?</question>
+            <reponse>Brendan Eich</reponse>
+            <reponse>Tim Berners-Lee</reponse>
+            <reponse>Développeur web</reponse>
+            <reponse>Google Inc</reponse>
+            <reponseCorrect>Tim Berners-Lee</reponseCorrect>
+    </element>
+    <element id="7">
+            <question>Si nous souhaitons définir le style d’un seule élément, quel sélecteur css utiliserons-nous?</question>
+            <reponse>id</reponse>
+            <reponse>text</reponse>
+            <reponse>class</reponse>
+            <reponse>name</reponse>
+            <reponseCorrect>id</reponseCorrect>
+    </element>
+    <element id="8">
+            <question>La balise HTML qui spécifie un style CSS intégré dans un élément est appelée ____?</question>
+            <reponse>Design</reponse>
+            <reponse>Style</reponse>
+            <reponse>Modify</reponse>
+            <reponse>Define</reponse>
+            <reponseCorrect>Style</reponseCorrect>
+    </element>
+    <element id="9">
+            <question>La norme HTML qui n’exige pas des double quotes autour des valeurs d’un attribut est dite ______?</question>
+            <reponse>HTML 1</reponse>
+            <reponse>HTML 3</reponse>
+            <reponse>HTML 5</reponse>
+            <reponse>HTML 7</reponse>
+            <reponseCorrect>HTML 5</reponseCorrect>
+    </element>
+    <element id="10">
+            <question>Un type de document HTML plus strict est connu sous ______ ?</question>
+            <reponse>DHTML</reponse>
+            <reponse>XHTML</reponse>
+            <reponse>XML</reponse>
+            <reponse>HTML</reponse>
+            <reponseCorrect>XHTML</reponseCorrect>
+    </element>
+    <element id="11">
+            <question>Un document HTML peut contenir _____</question>
+            <reponse>Des attributs</reponse>
+            <reponse>Des balises</reponse>
+            <reponse>Texte brut</reponse>
+            <reponse>Tout les réponses sont vrais</reponse>
+            <reponseCorrect>Tout les réponses sont vrais</reponseCorrect>
+    </element>
+    <element id="12">
+            <question>Une page conçue en HTML s’appelle _____</question>
+            <reponse>Application</reponse>
+            <reponse>Page de garde</reponse>
+            <reponse>Front-end</reponse>
+            <reponse>Page Web</reponse>
+            <reponseCorrect>Page Web</reponseCorrect>
+    </element>
+    <element id="13">
+            <question>Un document HTML est enregistré avec l’extension ____.</question>
+            <reponse>.htl</reponse>
+            <reponse>.html</reponse>
+            <reponse>.hml</reponse>
+            <reponse>.htnl</reponse>
+            <reponseCorrect>.html</reponseCorrect>
+    </element>
+    <element id="14">
+            <question>Le document HTML contient une balise racine appelée ____</question>
+            <reponse>HEAD</reponse>
+            <reponse>Title</reponse>
+            <reponse>Body</reponse>
+            <reponse>HTML</reponse>
+            <reponseCorrect>HTML</reponseCorrect>
+    </element>
+    <element id="15">
+            <question>Si nous souhaitons placer du texte autour d’une image, quelle propriété CSS nous allons utiliser?</question>
+            <reponse>push</reponse>
+            <reponse>float</reponse>
+            <reponse>align</reponse>
+            <reponse>wrap</reponse>
+            <reponseCorrect>float</reponseCorrect>
+    </element>
+    <element id="16">
+            <question>Choisissez la balise HTML correcte pour un grand titre.</question>
+            <reponse>H1</reponse>
+            <reponse>Heading</reponse>
+            <reponse>Head</reponse>
+            <reponse>H6</reponse>
+            <reponseCorrect>H1</reponseCorrect>
+    </element>
+    <element id="17">
+            <question>En HTML, Uniform Resource Locator (URL) est utilisé _____</question>
+            <reponse>Pour créer un document frame.</reponse>
+            <reponse>Pour créer une image map dans une page Web.</reponse>
+            <reponse>Pour personnaliser l’image dans une page Web.</reponse>
+            <reponse>Pour identifier un nom ou une ressource sur Internet.</reponse>
+            <reponseCorrect>Pour identifier un nom ou une ressource sur Internet.</reponseCorrect>
+    </element>
+    <element id="18">
+        <question>CSS est un acronyme pour _____</question>
+        <reponse>Cascading Style Sheet</reponse>
+        <reponse> Costume Style Sheet</reponse>
+        <reponse>Cascading System Style</reponse>
+        <reponse>Aucune de ces réponses n’est vraie.</reponse>
+        <reponseCorrect>Cascading Style Sheet</reponseCorrect>
+    </element>
+    <element id="19">
+        <question>Lequel des protocoles suivants n’est pas utilisé sur Internet?</question>
+        <reponse>Gopher</reponse>
+        <reponse>HTTP</reponse>
+        <reponse>WIRL</reponse>
+        <reponse>Telnet</reponse>
+        <reponseCorrect>WIRL</reponseCorrect>
+    </element>
+    <element id="20">
+        <question>À quoi sert les formulaires en HTML?</question>
+        <reponse>Pour afficher le contenu d’un email.</reponse>
+        <reponse>Pour afficher l’effet d’animation.</reponse>
+        <reponse>Pour recueillir les entrées de l’utilisateur.</reponse>
+        <reponse>Aucune de ces réponses</reponse>
+        <reponseCorrect>Pour recueillir les entrées de l’utilisateur.</reponseCorrect>
+    </element>
+    <element id="21">
+        <question>À quoi sert iframe en HTML?</question>
+        <reponse>Pour afficher une page Web dans une page Web.</reponse>
+        <reponse>Pour afficher une page Web avec un effet d’animation.</reponse>
+        <reponse>Pour afficher une page Web sans navigateur.</reponse>
+        <reponse>Tout les réponses sont vrais</reponse>
+        <reponseCorrect>Pour afficher une page Web dans une page Web.</reponseCorrect>
+    </element>
+    <element id="22">
+        <question>Quelle propriété CSS est utilisée pour contrôler la taille du texte d’un élément?</question>
+        <reponse>font-style</reponse>
+        <reponse>text-size</reponse>
+        <reponse>font-size</reponse>
+        <reponse>text-style</reponse>
+        <reponseCorrect>font-size</reponseCorrect>
+    </element>
+    <element id="23">
+        <question>La valeur par défaut de l’attribut « position » est _________.</question>
+        <reponse>fixed</reponse>
+        <reponse>absolute</reponse>
+        <reponse>inherit</reponse>
+        <reponse>relative</reponse>
+        <reponseCorrect>relative</reponseCorrect>
+    </element>
+    <element id="24">
+        <question>DNS traduit __________</question>
+        <reponse>le nom de domaine en adresse IP</reponse>
+        <reponse>l’adresse IP en nom de domaine</reponse>
+        <reponse>le nom de domaine en adresse physique(MAC)</reponse>
+        <reponse>Aucune des réponses</reponse>
+
+        <reponseCorrect>le nom de domaine en adresse IP</reponseCorrect>
+    </element>
+    <element id="25">
+        <question>La première page d’un site Web s’appelle _____.</question>
+        <reponse>Page de conception</reponse>
+        <reponse>Page d’accueil</reponse>
+        <reponse>Première page</reponse>
+        <reponse>Page principale</reponse>
+        <reponseCorrect>Page d’accueil</reponseCorrect>
+    </element>
+    
+    </elements>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+    <element id="1">
+            <question>Quelle est la commande git qui télécharge votre référentiel de GitHub sur votre ordinateur? </question>
+            <reponse> $ git push</reponse>
+            <reponse>$ git commit</reponse>
+            <reponse>$ git fork</reponse>
+            <reponse>$ git clone</reponse>
+            <reponseCorrect>$ git clone</reponseCorrect>
+    </element>
+    <element id="2">
+            <question>Quelle commande est utilisé pour transférer votre code et vos modifications dans GitHub? </question>
+            <reponse> $ git add </reponse>
+            <reponse>$ git upload</reponse>
+            <reponse> $ git push</reponse>
+            <reponse>$ git status</reponse>
+            <reponseCorrect>$ git push</reponseCorrect>
+    </element>
+    <element id="3">
+            <question>Comment initialiser le dépôt local avec git? </question>
+            <reponse> $ git start</reponse>
+            <reponse>$ git pull</reponse>
+            <reponse> $ git init</reponse>
+            <reponse> $ git clean</reponse>
+            <reponseCorrect> $ git init</reponseCorrect>
+    </element>
+    <element id="4">
+            <question>Comment récupérez du code d’un autre repository sur GitHub?</question>
+            <reponse> Forking via l’interface GitHub.</reponse>
+            <reponse> $ git pull-request</reponse>
+            <reponse> $ git fork</reponse>
+            <reponse>$ git clone</reponse>
+            <reponseCorrect>Forking via l’interface GitHub.</reponseCorrect>
+    </element>
+    <element id="5">
+            <question>Comment vérifier l’état de votre référentiel local depuis votre dernier commit? </question>
+            <reponse> 3$ git check</reponse>
+            <reponse>$ git commit</reponse>
+            <reponse>$ git diff</reponse>
+            <reponse>$ git status</reponse>
+            <reponseCorrect>$ git status</reponseCorrect>
+    </element>
+    <element id="6">
+            <question>Comment ajouter des fichiers à un commit? </question>
+            <reponse>$ git stage</reponse>
+            <reponse>$ git commit</reponse>
+            <reponse>$ git add</reponse>
+            <reponse>$ git reset</reponse>
+            <reponseCorrect>$ git add</reponseCorrect>
+    </element>
+    <element id="7">
+            <question>Quel raccourci pour mettre en scène tous les changements que vous avez? </question>
+            <reponse> $ git push -am « Message »</reponse>
+            <reponse>$ git commit add .</reponse>
+            <reponse>$ git commit .</reponse>
+            <reponse>$ git add .</reponse>
+            <reponseCorrect>$ git commit .</reponseCorrect>
+    </element>
+    <element id="8">
+            <question>Quelle commande pour vérifier l’historique de votre référentiel?</question>
+            <reponse> $ git checkout</reponse>
+            <reponse>$ git fetch</reponse>
+            <reponse>$ git log</reponse>
+            <reponse>$ git diff</reponse>
+            <reponseCorrect>$ git log</reponseCorrect>
+    </element>
+    <element id="9">
+            <question>Quelle commande vous permettra de savoir qui a modifié un fichier? </question>
+            <reponse>$ git blame</reponse>
+            <reponse>$ git diff</reponse>
+            <reponse>$ git log</reponse>
+            <reponse>$ git log –source</reponse>
+            <reponseCorrect>$ git blame</reponseCorrect>
+    </element>
+    <element id="10">
+            <question>Comment ajouter un message à un commit?</question>
+            <reponse>$ git message "Fix error in xxxx"</reponse>
+            <reponse>$ git add "Fix error in xxxx"</reponse>
+            <reponse>$ git commit "Fix error in xxxx"</reponse>
+            <reponse>$ git commit -m "Fix error in xxxx"</reponse>
+            <reponseCorrect>$ git commit -m "Fix error in xxxx"</reponseCorrect>
+    </element>
+    <element id="11">
+            <question>Quelle est la syntaxe correcte pour valider toutes les modifications avec un message?</question>
+            <reponse>$ git message -am "Fix error in xxxx"</reponse>
+            <reponse>$ git add -a "Fix error in xxxx"</reponse>
+            <reponse>$ git commit -a "Fix error in xxxx"</reponse>
+            <reponse>$ git commit -am "Fix error in xxxx"</reponse>
+            <reponseCorrect>$ git commit -am "Fix error in xxxx"</reponseCorrect>
+    </element>
+    <element id="12">
+            <question>Ce qui vient en premier _____?</question>
+            <reponse>$ git add</reponse>
+            <reponse>$ git commit</reponse>
+            <reponse>$ git push</reponse>
+            <reponse>git merge</reponse>
+            <reponseCorrect>$ git add</reponseCorrect>
+    </element>
+    <element id="13">
+            <question>Quelle commande pour afficher tous les paramètres dans git? </question>
+            <reponse>$ git config --list</reponse>
+            <reponse>$ git config -a</reponse>
+            <reponse>$ git config --all</reponse>
+            <reponse>$ git config --parameters --listRéponse</reponse>
+            <reponseCorrect>$ git config --list</reponseCorrect>
+    </element>
+    <element id="14">
+            <question>Quelle commande pour retourner à la branche principale? </question>
+            <reponse>$ git checkout origin</reponse>
+            <reponse>$ git checkout -b master</reponse>
+            <reponse>$ git checkout master</reponse>
+            <reponse>$ git checkout branche</reponse>
+            <reponseCorrect>$ git checkout master</reponseCorrect>
+    </element>
+    <element id="15">
+            <question>Quelle commande pour annuler un commit?</question>
+            <reponse>$ git reset commit</reponse>
+            <reponse>$ git revert commit</reponse>
+            <reponse>$ git reset --hard origin/master</reponse>
+            <reponse>$ git init</reponse>
+            <reponseCorrect>$ git revert commit</reponseCorrect>
+    </element>
+    <element id="16">
+            <question>Quelle commande pour annuler définitivement un commit? </question>
+            <reponse>$ git reset commit</reponse>
+            <reponse>$ git revert commit</reponse>
+            <reponse>$ git reset --hard origin/master</reponse>
+            <reponse>$ git init</reponse>
+            <reponseCorrect>$ git reset commit</reponseCorrect>
+    </element>
+    <element id="17">
+            <question>Comment créer une nouvelle branche et y basculer directement?</question>
+            <reponse>$ git checkout "branch-name"</reponse>
+            <reponse>$ git branch "branch-name"</reponse>
+            <reponse>$ git checkout -b "branch-name"</reponse>
+            <reponse>$ git branch -new "branch-name"</reponse>
+            <reponseCorrect>$ git checkout -b "branch-name"</reponseCorrect>
+    </element>
+    
+    </elements>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+    <element id="1">
+            <question> Quelle fonction est utilisée pour supprimer les espaces au début d’une chaîne?</question>
+            <reponse>trim()</reponse>
+            <reponse>strim()</reponse>
+            <reponse>rtrim()</reponse>
+            <reponse>ltrim()</reponse>
+            <reponseCorrect>ltrim()</reponseCorrect>
+    </element>
+    <element id="2">
+            <question>Quelle fonction pour comparer deux chaines de caractères? </question>
+            <reponse>strcmp()</reponse>
+            <reponse>strcasecmp()</reponse>
+            <reponse>strspn()</reponse>
+            <reponse>Tout les réponses sont vrais</reponse>
+            <reponseCorrect>Tout les réponses sont vrais</reponseCorrect>
+    </element>
+    <element id="3">
+            <question>Laquelle des fonctions suivantes convertira une chaîne en majuscule?</question>
+            <reponse>strtoupper()</reponse>
+            <reponse>uppercase()</reponse>
+            <reponse>str_uppercase()</reponse>
+            <reponse>struppercase()</reponse>
+            <reponseCorrect>strtoupper()</reponseCorrect>
+    </element>
+    <element id="4">
+            <question>Laquelle des fonctions suivantes trouve la dernière occurrence d’une chaîne et renvoie sa position numérique? </question>
+            <reponse>strlastpos()</reponse>
+            <reponse>strpos()</reponse>
+            <reponse>strlast()</reponse>
+            <reponse>strrpos()</reponse>
+            <reponseCorrect>strrpos()</reponseCorrect>
+    </element>
+    <element id="5">
+            <question>Lorsque deux chaînes sont exactement équivalentes, strcmp() renvoie quoi?</question>
+            <reponse>Renvoie une chaîne</reponse>
+            <reponse>Renvoie 0</reponse>
+            <reponse>Retourne 1</reponse>
+            <reponse>Ne renvoie rien</reponse>
+            <reponseCorrect>Renvoie 0</reponseCorrect>
+    </element>
+    <element id="6">
+            <question>Quelle fonction est utilisée pour remplacer une chaîne entière par une autre chaîne?</question>
+            <reponse>Strstr()</reponse>
+            <reponse>Strrpos()</reponse>
+            <reponse>Replace()</reponse>
+            <reponse>Str_replace()</reponse>
+            <reponseCorrect>Str_replace()</reponseCorrect>
+    </element>
+    <element id="7">
+            <question>Pour sélectionner une sous-chaîne par position, vous utilisez ______ ?</question>
+            <reponse>Strstr()</reponse>
+            <reponse>substr()</reponse>
+            <reponse>Strsub()</reponse>
+            <reponse>str()</reponse>
+            <reponseCorrect>substr()</reponseCorrect>
+    </element>
+    <element id="8">
+            <question>Les caractères suivant \,?, *, \, &amp;, $,] sont échappés par quelle méthode?</question>
+            <reponse>remove()</reponse>
+            <reponse>quotemeta()</reponse>
+            <reponse>removechar()</reponse>
+            <reponse>addslashes()</reponse>
+            <reponseCorrect>quotemeta()</reponseCorrect>
+    </element>
+    <element id="9">
+            <question>Les méthodes sont également appelées des_______? </question>
+            <reponse>fonction membre</reponse>
+            <reponse>instances</reponse>
+            <reponse>objets</reponse>
+            <reponse>constructeurs</reponse>
+            <reponseCorrect>fonction membre</reponseCorrect>
+    </element>
+    <element id="10">
+            <question>Quelle mot-clé empêche une méthode d’être redéfinie par une classe file? </question>
+            <reponse>Abstract</reponse>
+            <reponse>Protected</reponse>
+            <reponse>Final</reponse>
+            <reponse>Static</reponse>
+            <reponseCorrect>Final</reponseCorrect>
+    </element>
+    <element id="11">
+            <question>PHP reconnaît les constructeurs sous le nom de _________?</question>
+            <reponse>construct()</reponse>
+            <reponse>_construct()</reponse>
+            <reponse>function _construct()</reponse>
+            <reponse>function __construct()</reponse>
+            <reponseCorrect>function __construct()</reponseCorrect>
+    </element>
+    <element id="12">
+            <question>Quelle version de PHP a introduit le mot clé « instanceof »?</question>
+            <reponse>PHP 4</reponse>
+            <reponse>PHP 5</reponse>
+            <reponse>PHP 5.3</reponse>
+            <reponse>PHP 6</reponse>
+            <reponseCorrect>PHP 5</reponseCorrect>
+    </element>
+    <element id="13">
+            <question>La fonction Serialize() prend une valeur de tout type, puis ______?</question>
+            <reponse>Décode la valeur sous forme entière</reponse>
+            <reponse>Encode une valeur sous forme de chaîne de caractères</reponse>
+            <reponse>Change la valeur en caractères</reponse>
+            <reponse>Aucune de ces réponses n’est vraie.</reponse>
+            <reponseCorrect>Encode une valeur sous forme de chaîne de caractères</reponseCorrect>
+    </element>
+    <element id="14">
+            <question>Laquelle des fonctions suivantes est utilisée pour déterminer si une classe existe ou non? </question>
+            <reponse>exist()</reponse>
+            <reponse>exist_class()</reponse>
+            <reponse>class_exist()</reponse>
+            <reponse>__exist()</reponse>
+            <reponseCorrect>class_exist()</reponseCorrect>
+    </element>
+    <element id="15">
+            <question>Laquelle des fonctions suivantes est utilisée pour déterminer le type d’objet? </question>
+            <reponse>obj_type()</reponse>
+            <reponse>is_obj()</reponse>
+            <reponse>is_a()</reponse>
+            <reponse>type()</reponse>
+            <reponseCorrect>is_a()</reponseCorrect>
+    </element>
+    <element id="16">
+            <question>Lequel des mots-clés suivants est utilisé pour q’une classe file hériter une classe mère?</question>
+            <reponse>include</reponse>
+            <reponse>extends</reponse>
+            <reponse>implements</reponse>
+            <reponse>inherit</reponse>
+            <reponseCorrect>extends</reponseCorrect>
+    </element>
+    <element id="17">
+            <question>Le destructeur est disponible depuis quelle version?</question>
+            <reponse>PHP4</reponse>
+            <reponse>PHP4.2</reponse>
+            <reponse>PHP5</reponse>
+            <reponse>PHP6</reponse>
+            <reponseCorrect>PHP5</reponseCorrect>
+    </element>
+    <element id="18">
+            <question>Quel mot-clé est utilisé pour faire référence à des propriétés ou à des méthodes dans la classe elle-même?</question>
+            <reponse>private</reponse>
+            <reponse>$this</reponse>
+            <reponse>protected</reponse>
+            <reponse>public</reponse>
+            <reponseCorrect>$this</reponseCorrect>
+    </element>
+    <element id="19">
+            <question>La fonction __sleep() est appelée lorsque vous ______? </question>
+            <reponse>sérialiser un objet</reponse>
+            <reponse>désérialiser un objet</reponse>
+            <reponse>Partager un objet</reponse>
+            <reponse>Choisissez un objet</reponse>
+            <reponseCorrect>sérialiser un objet</reponseCorrect>
+    </element>
+    <element id="20">
+            <question>La clause Extends est utilisée pour____? </question>
+            <reponse>hériter d’une autre classe</reponse>
+            <reponse>extension de fonction</reponse>
+            <reponse>créer des constructeurs</reponse>
+            <reponse>Aucune de ces réponses n’est vraie.</reponse>
+            <reponseCorrect>hériter d’une autre classe</reponseCorrect>
+    </element>
+    <element id="21">
+            <question>PHP ne prend pas en charge _______?</question>
+            <reponse>HTML</reponse>
+            <reponse>JavaScript</reponse>
+            <reponse>Héritage multiple</reponse>
+            <reponse>Tout les réponses sont vrais</reponse>
+            <reponseCorrect>Héritage multiple</reponseCorrect>
+    </element>
+    <element id="22">
+            <question>Une classe abstraite est une classe qui ne peut être instanciée mais ___? </question>
+            <reponse>Seulement hérité</reponse>
+            <reponse>Seulement déclaré</reponse>
+            <reponse>Seulement copié</reponse>
+            <reponse>Tout les réponses sont vrais</reponse>
+            <reponseCorrect>Seulement hérité</reponseCorrect>
+    </element>
+    <element id="23">
+            <question>Quelle version de PHP a introduit les concepts avancés de la POO?</question>
+            <reponse>PHP 4</reponse>
+            <reponse>PHP 5</reponse>
+            <reponse>PHP 4.3</reponse>
+            <reponse>PHP 6</reponse>
+            <reponseCorrect>PHP 5</reponseCorrect>
+    </element>
+    <element id="24">
+            <question>Lequel des éléments suivants est un tableau associatif contenant des variables de session disponibles pour un script ?</question>
+            <reponse>$GLOBALS</reponse>
+            <reponse>$_SERVER</reponse>
+            <reponse>$SESSION</reponse>
+            <reponse>$_SESSION</reponse>
+            <reponseCorrect>$_SESSION</reponseCorrect>
+    </element>
+    <element id="25">
+            <question>Laquelle des fonctions suivantes crée un tableau?</question>
+            <reponse>array()</reponse>
+            <reponse>new array()</reponse>
+            <reponse>array[]</reponse>
+            <reponse>$array()</reponse>
+            <reponseCorrect>array()</reponseCorrect>
+    </element>
+    
+    </elements>
